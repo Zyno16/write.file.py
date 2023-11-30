@@ -1,0 +1,6 @@
+file=open("my file.txt","w")
+file.write("hello ahmed\n")
+file.write("hello amr\n")
+file.write("hello zino\n")
+           
+file.close()
